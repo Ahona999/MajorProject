@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080",
+            "webRoot": "http://localhost:3000/listings/651241d6684468028d5fe9ff/edit"
+        },
+        {
+            "type": "msedge",
+            "name": "http://localhost:3000/listings/651241d6684468028d5fe9f3/reviews",
+            "request": "launch",
+            "url": "http://localhost:3000/listings/651241d6684468028d5fe9f3/reviews", 
+        }
+
+    ]
+}
